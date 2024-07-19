@@ -1,5 +1,7 @@
 # Repositório de imagens públicas da Axon
 
+### ⚠️⚠️⚠️ **_Atenção: Este é um repositório público_** ⚠️⚠️⚠️
+
 Utilizar esse repositório quando precisar de um link público para alguma imagem (de preferência pequena). Por exemplo: imagem para assinatura de e-mail.
 
 ## Regras
